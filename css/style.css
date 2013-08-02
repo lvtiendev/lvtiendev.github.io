@@ -1,0 +1,32 @@
+body {
+  padding-top: 60px;
+}
+
+* {
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -40px;
+}
+
+.footer, .push {
+  clear: both;
+}
+
+footer.primary {
+  background-color: #000;
+  height: 40px;
+}
+
+footer.primary p {
+  color: rgb(153, 153, 153);
+  text-align: center;
+}

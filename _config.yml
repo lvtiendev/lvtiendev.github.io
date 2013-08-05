@@ -1,7 +1,7 @@
 name: "Tony's Blog"
 description: "My personal things"
 url: "http://lvtiendev.github.io"
-paginate: 1
+paginate: 5
 markdown: rdiscount
 permalink: pretty
 pygments: true

@@ -29,4 +29,5 @@ footer.primary {
 footer.primary p {
   color: rgb(153, 153, 153);
   text-align: center;
+  line-height: 40px;
 }

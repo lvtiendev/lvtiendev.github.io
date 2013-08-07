@@ -31,3 +31,9 @@ footer.primary p {
   text-align: center;
   line-height: 40px;
 }
+
+.sidebar {
+  position: fixed;
+  right: 0px;
+  height: 100%;
+}

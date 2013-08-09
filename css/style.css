@@ -34,6 +34,35 @@ footer.primary p {
 
 .sidebar {
   position: fixed;
-  right: 0px;
   height: 100%;
+  right: 0px;
+}
+
+section.project {
+  margin-bottom: 100px;
+}
+
+.label {
+  font-size: 1em;
+}
+
+aside.tech {
+  margin: 15px 0 15px 0;
+}
+
+.flex-direction-nav .flex-prev {
+  text-indent: -9999px;
+  background: url("/img/bg_direction_nav.png") 0 0;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+}
+
+.flex-direction-nav .flex-next {
+ text-indent: -9999px;
+  background: url("/img/bg_direction_nav.png") -30px 0;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  text-align: left;
 }

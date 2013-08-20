@@ -1,5 +1,5 @@
 name: "Tony's Blog"
-description: "My personal things"
+description: "Le Viet Tien's CS3216 blog"
 url: "http://lvtiendev.github.io"
 paginate: 5
 markdown: rdiscount

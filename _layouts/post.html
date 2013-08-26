@@ -1,8 +1,8 @@
 {% include header.html %}
 <div class="row-fluid">
   <div class="span9">
-    <h1>{{ page.title }}</h1>
-    <p class="muted">{{ page.date | date_to_long_string }}</p>
+    <h1 class="center-text">{{ page.title }}</h1>
+    <p class="muted center-text">{{ page.date | date_to_long_string }}</p>
     {{ content }}
     <div id="disqus_thread"></div>
       <script type="text/javascript">

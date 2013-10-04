@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'LucidaGrande';
+  src: url('css/fonts/lucidagrande.css');
+}
+
 body {
   padding-top: 60px;
 }
@@ -8,6 +13,7 @@ body {
 
 html, body {
   height: 100%;
+  font-family: 'LucidaGrande', 'Arial', 'san-serif';
 }
 
 .wrapper {
@@ -89,4 +95,8 @@ img.center {
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+div.main-text {
+  font-size: 110%;
 }

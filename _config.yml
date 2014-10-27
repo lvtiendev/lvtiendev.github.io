@@ -4,4 +4,4 @@ url: "http://lvtiendev.github.io"
 paginate: 5
 markdown: rdiscount
 permalink: pretty
-pygments: true
+highlighter: pygments
